@@ -4,8 +4,14 @@ It's basically parody of the game "FAITH", with my own style and twist to it.
 ## Game Mechanics
 It's pretty straight forward use WASD for movement keys and use F to attack/pull ut your cross, certain items can be attacked/banish, throughout the game a monster will spawn every now and then, to repel him face its direction and pull out your cross, you must do this when the monster is quite close to you and not hold it all the time.
 
-https://cdn.discordapp.com/attachments/734045662169137234/1118410296919339018/vid.mp4
 
-https://cdn.discordapp.com/attachments/734045662169137234/1118410297225515058/vid2.mp4
+https://github.com/Tropicaljittai/OOP-Final-Project/assets/93302274/2d87db79-a6af-47fa-97d3-3101c8d33629
 
-https://cdn.discordapp.com/attachments/734045662169137234/1118410296655106079/vid3.mp4
+
+
+https://github.com/Tropicaljittai/OOP-Final-Project/assets/93302274/b3258ade-d7ff-47f7-bd1a-11b1a88628f6
+
+
+
+https://github.com/Tropicaljittai/OOP-Final-Project/assets/93302274/a50a1f59-e715-425e-bd5c-9c818cb5b05d
+
