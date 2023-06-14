@@ -15,7 +15,7 @@ public class Player extends Entity{
 
     public boolean hasGun = false;
     public int banishedGhosts = 0;
-    public int multiplier = 7;
+    public int multiplier = 3;
     public int attackState = 2;
     public int defaultState = 1;
     public int deadState = 3;
