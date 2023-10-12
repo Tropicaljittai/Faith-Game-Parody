@@ -1,5 +1,5 @@
 # OOP FINAL PROJECT - 2D RETRO GAME
-It's basically parody of the game "FAITH", about a priest who is trying to fonished an exorcism that went wrong, with some puzzle and misteries.
+It's basically parody of the game "FAITH", about a priest who is trying to finish an exorcism that went wrong, with some puzzle and misteries.
 
 ## Game Mechanics
 It's pretty straight forward use WASD for movement keys and use F to attack/pull ut your cross, certain items can be attacked/banish, throughout the game a monster will spawn every now and then, to repel him face its direction and pull out your cross, you must do this when the monster is quite close to you and not hold it all the time.
